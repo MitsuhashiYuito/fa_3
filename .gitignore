@@ -4,3 +4,5 @@ __pycache__/
 ___not_pick_place.py
 sub
 .DS_Store
+.JUDGE.py.swp
+dobot_ide
